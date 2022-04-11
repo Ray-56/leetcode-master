@@ -1,13 +1,4 @@
 
-<p align="center">
-  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
-</p>
-<p align="center"><strong>欢迎大家<a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
-
-
 # 力扣上如何自己构造二叉树输入用例？
 
 经常有录友问，二叉树的题目中输入用例在ACM模式下应该怎么构造呢？
@@ -24,7 +15,7 @@
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20210914222335.png)
 
-一直跟着公众号学算法的录友 应该知道，我在[二叉树：构造二叉树登场！](https://mp.weixin.qq.com/s/Dza-fqjTyGrsRw4PWNKdxA)，已经讲过，**只有 中序与后序 和  中序和前序 可以确定一颗唯一的二叉树。 前序和后序是不能确定唯一的二叉树的**。
+一直跟着公众号学算法的录友 应该知道，我在[二叉树：构造二叉树登场！](https://mp.weixin.qq.com/s/Dza-fqjTyGrsRw4PWNKdxA)，已经讲过，**只有 中序与后序 和  中序和前序 可以确定一棵唯一的二叉树。 前序和后序是不能确定唯一的二叉树的**。
 
 那么[538.把二叉搜索树转换为累加树](https://mp.weixin.qq.com/s/rlJUFGCnXsIMX0Lg-fRpIw)的示例中，为什么，一个序列（数组或者是字符串）就可以确定二叉树了呢？
 
@@ -237,7 +228,4 @@ int main() {
 ```
 
 -----------------------
-* 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
-* B站视频：[代码随想录](https://space.bilibili.com/525438321)
-* 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
 <div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>

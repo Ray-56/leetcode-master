@@ -1,16 +1,18 @@
+
 👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
-> 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
-> 3. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
-> 3. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
-> 4. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
-> 5. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+> 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/other/algo_pdf.html) 。
+> 3. **最强八股文：**：[代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html)
+> 4. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
+> 5. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
+> 6. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
+> 7. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 <p align="center">
-<a href="https://github.com/youngyangyang04/leetcode-master" target="_blank">
-	<img src="https://img-blog.csdnimg.cn/20210318112734278.png" width="300"/>
+<a href="programmercarl.com" target="_blank">
+	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211111115823.png" width="400"/>
 </a>
 
 <p align="center">
@@ -19,10 +21,14 @@
   <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
   <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
+
+<p align="center"><strong>《代码随想录》正式出版啦！！录友专属福利，点击下方可以享五折优惠！详细可以<a href="https://programmercarl.com/other/publish.html">点击这里</a></strong></p>
+
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
-	<img src="./pics/知识星球.png" width="600"/>
+<a href="https://union-click.jd.com/jdc?e=&p=JF8BAMQJK1olXg8EUVhVCkkWAV8IGV8WVAICU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUF1UDEsQHDZNRwYlX0B9A1cfakpyYBkSRj4QKFBUEEAfaEcbM244GFIXWQYAUV5VOHsXBF9edVsUXAcDVVtdDUgnAl8IHFkdXw8KUl5fDkgRM2gIEmtIFVpKAxVtOHsUM184G2sWbURsVApfAR8XA2sLSw8cWA8LUw1ZCElHAmhdTAxGW1YBUlxtCkoWB2Y4" target="_blank">
+	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211213180559.png" width="400"/>
 </a>
+</p>
 
 
 # LeetCode 刷题攻略
@@ -82,8 +88,7 @@
 
 ## 前序
 
-* [「代码随想录」后序安排](https://mp.weixin.qq.com/s/4eeGJREy6E-v6D7cR_5A4g)
-* [「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
+* [「代码随想录」学习社区](https://programmercarl.com/other/kstar.html)
 
 
 * 编程语言
@@ -126,6 +131,16 @@
 
 ## 知识星球精选
 
+* [秋招面试，心态很重要！](./problems/知识星球精选/秋招总结3.md)
+* [秋招倒霉透顶，触底反弹！](./problems/知识星球精选/秋招总结2.md)
+* [无竞赛，无实习，如何秋招？](./problems/知识星球精选/秋招总结1.md)
+* [offer总决赛，何去何从！](./problems/知识星球精选/offer总决赛，何去何从.md)
+* [入职后担心代码能力跟不上！](./problems/知识星球精选/入职后担心代码能力跟不上.md)
+* [秋招进入offer决赛圈！](./problems/知识星球精选/offer对比-决赛圈.md)
+* [非科班的困扰](./problems/知识星球精选/非科班的困扰.md)
+* [offer的选择-开奖](./problems/知识星球精选/秋招开奖.md)
+* [看到代码就抵触！怎么办？](./problems/知识星球精选/不喜欢写代码怎么办.md)
+* [遭遇逼签，怎么办？](./problems/知识星球精选/逼签.md)
 * [HR特意刁难非科班！](./problems/知识星球精选/HR特意刁难非科班.md)
 * [offer的选择](./problems/知识星球精选/offer的选择.md)
 * [天下乌鸦一般黑，哪家没有PUA？](./problems/知识星球精选/天下乌鸦一般黑.md)
@@ -247,7 +262,7 @@
 3. [二叉树：听说递归能做的，栈也能做！](./problems/二叉树的迭代遍历.md)
 4. [二叉树：前中后序迭代方式的写法就不能统一一下么？](./problems/二叉树的统一迭代法.md)
 5. [二叉树：层序遍历登场！](./problems/0102.二叉树的层序遍历.md) 
-6. [二叉树：你真的会翻转二叉树么？](./problems/0226.翻转二叉树.md)
+6. [二叉树：你真的会翻转二叉树么？](./problems/0226.翻转二叉树.md) 
 7. [本周小结！（二叉树）](./problems/周总结/20200927二叉树周末总结.md)
 8. [二叉树：我对称么？](./problems/0101.对称二叉树.md)
 9. [二叉树：看看这些树的最大深度](./problems/0104.二叉树的最大深度.md)
@@ -548,14 +563,14 @@
 
 # 关于作者
 
-大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
+大家好，我是程序员Carl，哈工大师兄，《代码随想录》作者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
 
-加入刷题微信群，备注：「个人简单介绍」 + 组队刷题
+加入「代码随想录」刷题小分队（微信群），可以扫下方二维码加我微信。
 
-也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
+如果是已工作，备注：姓名-城市-岗位-组队刷题。如果学生，备注：姓名-学校-年级-组队刷题。**备注没有自我介绍不通过哦**
 
-<a name="微信"></a>
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/WechatIMG82.jpeg" data-img="1" width="200" height="200"></img></div>
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20220102204804.png" data-img="1" width="200" height="200"></img></div>
+
 
 
 # 公众号
@@ -568,5 +583,4 @@
 
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
-
 
